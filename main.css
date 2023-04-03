@@ -38,7 +38,7 @@ body{
 }
 h1{
 	text-transform: uppercase;
-	font-size: 10rem;
+	font-size: calc(100vw /5);
 	font-family: neon_f;
 	animation: flicker 1.5s infinite alternate;
 	color: #ffffff;
